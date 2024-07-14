@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there!
+Welcome to my GitHub page! 👋
+
+I'm passionate about data analysis and machine learning, constantly exploring new ways to leverage data for impactful insights and innovative solutions. With hands-on experience in Python and popular machine learning libraries like scikit-learn and TensorFlow, I enjoy tackling complex problems and building predictive models.
+
+For data analysis, I utilize a variety of tools including Excel, SQL, and Python, ensuring thorough and accurate analysis. To visualize data and communicate findings effectively, I use PowerBI, Tableau, and Looker.
+
+I'm always open to collaboration, so feel free to reach out if you're interested in working together on exciting data projects!
+
+Let's connect and make data-driven magic happen! ✨
 
 <!--
 **gisellehalim/gisellehalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
