@@ -54,7 +54,7 @@ Let's connect and make data-driven magic happen! ✨
 ![Orange](https://img.shields.io/badge/Orange-FFA500?style=for-the-badge&logo=orange&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-F8B500?style=for-the-badge&logo=knime&logoColor=black)
 
-### 🔥 Fun Facts About Me
+## 🔥 Fun Facts About Me
 - 🧠 I’m obsessed with uncovering insights — finding patterns in data is my kind of thrill.
 - 📚 For fun, I binge online courses, test random tools, or just vibe with niche tech stuff.
 - 💡 Cooking up several ideas for future projects — some might hit big, some just for the vibes.
