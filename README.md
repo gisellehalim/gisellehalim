@@ -9,6 +9,7 @@ I'm always open to collaboration, so feel free to reach out if you're interested
 
 Let's connect and make data-driven magic happen! ✨
 
+![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=redical)
 <!--[Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellehalim&show_icons=true&theme=tokyonight)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellehalim&layout=compact&theme=tokyonight)
 
