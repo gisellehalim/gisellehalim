@@ -9,6 +9,7 @@ I'm always open to collaboration, so feel free to reach out if you're interested
 
 Let's connect and make data-driven magic happen! ✨
 
+![Visitor Count](https://komarev.com/ghpvc/?username=gisellehalim&color=red)
 <!--[Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellehalim&show_icons=true&theme=tokyonight)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellehalim&layout=compact&bg_color=000000&title_color=ff4444&text_color=ffffff&icon_color=ff4444
 )
