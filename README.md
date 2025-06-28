@@ -9,6 +9,14 @@ I'm always open to collaboration, so feel free to reach out if you're interested
 
 Let's connect and make data-driven magic happen! ✨
 
+## ⚡ More About Me
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bit.ly/PortfolioGiselle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisellehalim/)
+
+## 💼 Freelance Services
+[![Fastwork](https://img.shields.io/badge/Fastwork-00ADEF?style=for-the-badge&logoColor=white)](https://fastwork.id/gisellehalim)
+[![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/gisellehalim27)
+
 ![Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellehalim&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellehalim&layout=compact&theme=tokyonight)
@@ -46,8 +54,6 @@ Let's connect and make data-driven magic happen! ✨
 ![Orange](https://img.shields.io/badge/Orange-FFA500?style=for-the-badge&logo=orange&logoColor=white)
 ![KNIME](https://img.shields.io/badge/KNIME-F8B500?style=for-the-badge&logo=knime&logoColor=black)
 
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 
 <!--
 **gisellehalim/gisellehalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
