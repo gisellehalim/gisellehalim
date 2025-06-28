@@ -9,9 +9,8 @@ I'm always open to collaboration, so feel free to reach out if you're interested
 
 Let's connect and make data-driven magic happen! ✨
 
-![Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=redical)
 <!--[Giselle's GitHub stats](https://github-readme-stats.vercel.app/api?username=gisellehalim&show_icons=true&theme=tokyonight)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellehalim&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gisellehalim&layout=compact&theme=redical)
 
 ## ⚡ More About Me
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.canva.com/design/DAGMoSodDz8/GriQDhsRDRZhMJZN7dEL8w/view?utm_content=DAGMoSodDz8&utm_campaign=designshare&utm_medium=link&utm_source=editor&utm_medium=graphext&utm_source=instabio&utm_campaign=Data%20Portfolio&fbclid=PAY2xjawG3qJdleHRuA2FlbQIxMAABpkvj-T1oThBjlLgbQHoKaLu-hUw62M6qqNzh7Hgh5A_ppZ1jyVwXvAov_A_aem_qUdeZYi9c_3qoVWn5NqYwA)
