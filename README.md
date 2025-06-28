@@ -17,7 +17,7 @@ Let's connect and make data-driven magic happen! ✨
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gisellehalim/)
 
 ## 💼 Freelance Services
-[![Fastwork](https://img.shields.io/badge/Fastwork-00ADEF?style=for-the-badge&logoColor=white)](https://fastwork.id/gslhalim)
+[![Fastwork](https://img.shields.io/badge/Fastwork-00ADEF?style=for-the-badge&logoColor=white)](https://fastwork.id/user/gslhalim)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/gisellehalim27)
 
 ## 🛠️ Skills
